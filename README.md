@@ -1,6 +1,9 @@
 # CourseFlow
 
+🔗 **Live Demo:** https://courseflow-steel.vercel.app/  
+
 A calm, modern course planning experience designed to reduce stress and help students make better decisions.
+
 
 ---
 
