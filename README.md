@@ -74,7 +74,15 @@ Key design decisions:
 
 ## 📸 Screenshots
 
-*(Add screenshots here later if you want — huge boost for portfolio)*
+<img width="2843" height="1626" alt="image" src="https://github.com/user-attachments/assets/b6060be1-4ac8-456a-bbd7-75bf1237d7f8" />
+
+
+<img width="2891" height="1409" alt="image" src="https://github.com/user-attachments/assets/fa8b2862-ba5e-4ab7-8168-22d919cc6446" />
+
+<img width="2899" height="1650" alt="image" src="https://github.com/user-attachments/assets/a974b54b-a853-40cf-813e-f2cb15aa12a5" />
+
+
+
 
 ---
 
